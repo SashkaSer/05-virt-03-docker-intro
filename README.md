@@ -2,9 +2,15 @@
 
 ### Задание 1
 Кастомная страница Nginx
-![task1](https://hub.docker.com/repository/docker/sashaser/nginx/general)`
+![task1](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/webpage.png)`
 
+Образ в DockerHub
 <https://hub.docker.com/repository/docker/sashaser/nginx/general>
 
+Dockerfile
+```
+FROM nginx:1.21.1
+COPY ./index.html /usr/share/nginx/html/index.html
+```
 ---
 
