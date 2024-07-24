@@ -5,7 +5,7 @@
 ![task1](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/webpage.png)`
 
 Образ в DockerHub
-<https://hub.docker.com/repository/docker/sashaser/nginx/general>
+<https://hub.docker.com/repository/docker/sashaser/custom-nginx/general>
 
 Dockerfile
 ```
