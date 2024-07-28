@@ -28,3 +28,5 @@ COPY ./index.html /usr/share/nginx/html/index.html
 Удаление запущенного контейнера
 ![task5](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/rm.png)`
 
+### Задание 4
+![task6](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/file.png)`
