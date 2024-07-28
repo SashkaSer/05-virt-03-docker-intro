@@ -46,7 +46,7 @@ Portainer
 Удаляем compose.yml. Найдены потерянные контейнеры для этого сервиса
 ![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/compose.png)`
 
-Удаляем потеряшек
+Удаляем потеряшек  
 ![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/remove.png)`
 
 Остановка контейнеров  
