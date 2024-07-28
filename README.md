@@ -20,3 +20,11 @@ COPY ./index.html /usr/share/nginx/html/index.html
 ### Задание 3
 Просмотр логов  
 ![task3](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/logs.png)`
+
+После нажатия ctrl+c мы убиваем наш остновной процесс bash, что в свою очередь убивает контейнер.
+Чтобы починить работу Nginx нужно остановить контейнер и перемапить порт 80 на 81  
+![task4](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/port.png)`
+
+Удаление запущенного контейнера
+![task5](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/rm.png)`
+
