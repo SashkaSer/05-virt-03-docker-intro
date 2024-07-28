@@ -30,3 +30,24 @@ COPY ./index.html /usr/share/nginx/html/index.html
 
 ### Задание 4
 ![task6](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/file.png)`
+
+### Задача 5
+1. Запустился portainer, так как дефолтное имя compose.yaml
+
+Запущенные контейнеры и исправленный конфиг  
+![task6](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/containers.png)`
+
+Заливка образа
+![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/reg.png)`
+
+Portainer  
+![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/portainer.png)`
+
+Удаляем compose.yml. Найдены потерянные контейнеры для этого сервиса
+![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/compose.png)`
+
+Удаляем потеряшек
+![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/remove.png)`
+
+Остановка контейнеров  
+![task7](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/stop.png)`
