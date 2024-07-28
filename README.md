@@ -16,3 +16,7 @@ COPY ./index.html /usr/share/nginx/html/index.html
 
 ### Задание 2  
 ![task2](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/task2.png)`
+
+### Задание 3
+Просмотр логов  
+![task3](https://github.com/SashkaSer/05-virt-03-docker-intro/blob/main/img/logs.png)`
